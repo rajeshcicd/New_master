@@ -48,7 +48,7 @@ public	WebDriver driver;
 	}
 	
 	
-	@Test
+//	@Test
 	
 	public void windows() throws InterruptedException
 	{
